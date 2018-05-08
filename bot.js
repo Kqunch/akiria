@@ -6,8 +6,8 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.reply('pong');
+    if (message.content === 'oldwaifu') {
+    	message.reply('https://gyazo.com/5940b88581e77afca309b322561f34ae');
   	}
 });
 
