@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'oldwaifu') {
-    	message.reply('https://gyazo.com/5940b88581e77afca309b322561f34ae');
+    	message.reply('https://gyazo.com/c394b8bbc168c49fcb4cd25669407456');
   	}
 });
 
