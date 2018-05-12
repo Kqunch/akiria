@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'q!brutal') {
-    	message.reply('https://gyazo.com/c394b8bbc168c49fcb4cd25669407456');
+    	message.reply('https://gyazo.com/b43d2b1e3bec30037d1c189df446cafe');
   	}
 });
 
